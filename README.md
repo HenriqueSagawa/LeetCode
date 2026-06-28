@@ -110,9 +110,6 @@ LeetCode/
 
 </div>
 
-Se você tiver um perfil no LeetCode, pode exibir suas estatísticas em tempo real adicionando o card abaixo (basta trocar `SEU_USERNAME_LEETCODE` pelo seu nome de usuário):
-
-
 [![LeetCode Stats](https://leetcard.jacoblin.cool/henriquetutomusagawa?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/henriquetutomusagawa)
 
 <br/>
