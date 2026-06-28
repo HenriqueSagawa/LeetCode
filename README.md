@@ -9,7 +9,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/HenriqueSagawa/LeetCode?color=4F46E5&style=for-the-badge&label=%C3%9Altimo%20commit)
 ![GitHub repo size](https://img.shields.io/github/repo-size/HenriqueSagawa/LeetCode?color=06B6D4&style=for-the-badge&label=Tamanho)
 ![GitHub stars](https://img.shields.io/github/stars/HenriqueSagawa/LeetCode?color=FACC15&style=for-the-badge&label=Stars)
-![License](https://img.shields.io/badge/Licença-MIT-22c55e?style=for-the-badge)
 
 </div>
 
@@ -31,7 +30,7 @@
 
 ## 📖 Sobre o repositório
 
-Este repositório reúne minhas **resoluções de problemas do [LeetCode](https://leetcode.com/)**, plataforma amplamente utilizada para treinar lógica de programação, estruturas de dados e algoritmos — habilidades essenciais para entrevistas técnicas em empresas de tecnologia.
+Este repositório reúne minhas **resoluções de problemas do [LeetCode](https://leetcode.com/)**, plataforma amplamente utilizada para treinar lógica de programação, estruturas de dados e algoritmos, habilidades essenciais para entrevistas técnicas em empresas de tecnologia.
 
 O objetivo deste projeto é:
 
@@ -82,8 +81,6 @@ LeetCode/
 └── README.md
 ```
 
-> ⚠️ A estrutura acima é apenas um modelo ilustrativo. Ajuste os nomes dos arquivos para refletir exatamente as linguagens usadas em cada pasta do seu repositório.
-
 <br/>
 
 ## ✅ Exercícios resolvidos
@@ -115,9 +112,8 @@ LeetCode/
 
 Se você tiver um perfil no LeetCode, pode exibir suas estatísticas em tempo real adicionando o card abaixo (basta trocar `SEU_USERNAME_LEETCODE` pelo seu nome de usuário):
 
-```markdown
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SEU_USERNAME_LEETCODE?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/SEU_USERNAME_LEETCODE)
-```
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/henriquetutomusagawa?theme=dark&font=Karla&ext=heatmap)](https://leetcode.com/henriquetutomusagawa)
 
 <br/>
 
@@ -131,8 +127,6 @@ Como os problemas são resolvidos em **múltiplas linguagens**, este repositóri
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-> 🔧 Remova ou adicione badges acima para refletir exatamente as linguagens que você utiliza no repositório.
 
 <br/>
 
